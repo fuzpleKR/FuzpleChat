@@ -97,7 +97,7 @@
 {name:"아르르뻐큐.png", keywords:["아르르뻐큐"], tags:[]},
 {name:"아키노.png", keywords:["아키노"], tags:[]},
 {name:"안나.png", keywords:["안나"], tags:[]},
-{name:"앗,앗아아,앗..아아...png", keywords:["앗""앗아아","앗"], tags:[]},
+{name:"앗,앗아아.png", keywords:["앗","앗아아"], tags:[]},
 {name:"언어.png", keywords:["언어"], tags:[]},
 {name:"얼른자살을.png", keywords:["얼른자살을"], tags:[]},
 {name:"없찐.gif", keywords:["없찐"], tags:[]},
