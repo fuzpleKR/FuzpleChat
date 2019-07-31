@@ -1,2 +1,2 @@
-http://fuzple.com/chat/
-Fuzple
+https://raw.githubusercontent.com/fuzpleKR/FuzpleChat/master
+fuzple
