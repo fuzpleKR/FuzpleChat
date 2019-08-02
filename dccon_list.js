@@ -108,6 +108,7 @@
 {name:"오케이.png", keywords:["오케이"], tags:[]},
 {name:"와.png", keywords:["와"], tags:[]},
 {name:"우는DESU.png", keywords:["우는DESU"], tags:[]},
+{name:"유가만가.gif", keywords:["유가만가"], tags:[]},
 {name:"유이.png", keywords:["유이"], tags:[]},
 {name:"유이놀람.png", keywords:["유이놀람"], tags:[]},
 {name:"유이당황.png", keywords:["유이당황"], tags:[]},
