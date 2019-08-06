@@ -126,6 +126,7 @@
 {name:"정색.png", keywords:["정색"], tags:[]},
 {name:"좋은아침.png", keywords:["좋은아침"], tags:[]},
 {name:"쥬얼.png", keywords:["쥬얼"], tags:[]},
+{name:"지갑.gif", keywords:["지갑"], tags:[]},
 {name:"지지뜬.png", keywords:["지지뜬"], tags:[]},
 {name:"짹.png", keywords:["짹"], tags:[]},
 {name:"찐.png", keywords:["찐"], tags:[]},
