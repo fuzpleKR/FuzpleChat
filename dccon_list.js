@@ -105,6 +105,7 @@
 {name:"얼른자살을.png", keywords:["얼른자살을"], tags:[]},
 {name:"없찐.gif", keywords:["없찐"], tags:[]},
 {name:"엉엉.gif", keywords:["엉엉"], tags:[]},
+{name:"에리코,우후후.png", keywords:["에리코","우후후"], tags:[]},
 {name:"여보석,여보,여보론.png", keywords:["여보석","여보","여보론"], tags:[]},
 {name:"오케이.png", keywords:["오케이"], tags:[]},
 {name:"와.png", keywords:["와"], tags:[]},
