@@ -112,6 +112,7 @@
 {name:"우는DESU.png", keywords:["우는DESU"], tags:[]},
 {name:"우는캬루,캬루ㅠㅠ.jpg", keywords:["우는캬루","캬루ㅠㅠ"], tags:[]},
 {name:"유가만가.gif", keywords:["유가만가"], tags:[]},
+{name:"유가만가2.gif", keywords:["유가만가2"], tags:[]},
 {name:"유이.png", keywords:["유이"], tags:[]},
 {name:"유이놀람.png", keywords:["유이놀람"], tags:[]},
 {name:"유이당황.png", keywords:["유이당황"], tags:[]},
