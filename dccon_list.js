@@ -58,6 +58,7 @@
 {name:"뒤맡,탈주,ㅌㅌ.png", keywords:["뒤맡","탈주","ㅌㅌ"], tags:[]},
 {name:"뚱이.gif", keywords:["뚱이"], tags:[]},
 {name:"람쥐썬더.png", keywords:["람쥐썬더"], tags:[]},
+{name:"랭크업.gif", keywords:["랭크업"], tags:[]},
 {name:"리노.png", keywords:["리노"], tags:[]},
 {name:"리즈무.gif", keywords:["리즈무"], tags:[]},
 {name:"마코토.png", keywords:["마코토"], tags:[]},
