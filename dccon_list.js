@@ -137,7 +137,7 @@
 {name:"최악.png", keywords:["최악"], tags:[]},
 {name:"캬루!.png", keywords:["캬루!"], tags:[]},
 {name:"캬루.png", keywords:["캬루"], tags:[]},
-{name:"컴공,젤리삐,테위.jpg", keywords:["컴공","젤리삐","테위"], tags:[]},
+{name:"컴공,젤리삐,테위.png", keywords:["컴공","젤리삐","테위"], tags:[]},
 {name:"컴바.gif", keywords:["컴바"], tags:[]},
 {name:"컴하,공하,컴공하.png", keywords:["컴하","공하","컴공하"], tags:[]},
 {name:"코코로땡큐.jpg", keywords:["코코로땡큐"], tags:[]},
