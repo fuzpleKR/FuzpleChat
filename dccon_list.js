@@ -62,6 +62,7 @@
 {name:"랭크업.gif", keywords:["랭크업"], tags:[]},
 {name:"리노.png", keywords:["리노"], tags:[]},
 {name:"리즈무.gif", keywords:["리즈무"], tags:[]},
+{name:"린,도토리,린본체.png", keywords:["린","도토리","린본체"], tags:[]},
 {name:"마코토,9랭크,참기레벨.gif", keywords:["마코토","9랭크","참기레벨"], tags:[]},
 {name:"마코토.png", keywords:["마코토"], tags:[]},
 {name:"마호.png", keywords:["마호"], tags:[]},
