@@ -123,6 +123,7 @@
 {name:"유이부끄.png", keywords:["유이부끄"], tags:[]},
 {name:"유이사망.jpg", keywords:["유이사망"], tags:[]},
 {name:"유이웃음.png", keywords:["유이웃음"], tags:[]},
+{name:"유이이이.jpg", keywords:["유이이이"], tags:[]},
 {name:"유이춤.png", keywords:["유이춤"], tags:[]},
 {name:"유이혼란.png", keywords:["유이혼란"], tags:[]},
 {name:"유카리.png", keywords:["유카리"], tags:[]},
